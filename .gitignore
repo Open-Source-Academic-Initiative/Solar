@@ -1,0 +1,19 @@
+# Godot
+.godot/
+*.translation
+export_credentials.cfg
+
+# Builds locales (el ejecutable de Linux se publica como Release)
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# Blender
+*.blend1
+*.blend@
+
+# Sistema
+.DS_Store
+*~
