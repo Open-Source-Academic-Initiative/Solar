@@ -1,5 +1,10 @@
 # { Cartoon Solar System }
 
+Recorrido interactivo por un sistema solar de estilo caricatura. Selecciona
+el Sol, la Luna o un planeta para conocer sus datos y explorar el conjunto.
+La interfaz está en español de Colombia; los tamaños y las distancias no
+están a escala.
+
 An interactive tour of a cartoon solar system, by
 [OpenSAI](https://opensai.org). Click a planet, the Moon, or the Sun, and the
 camera flies to it and shows a fact card with real data. The arrow keys step
@@ -10,7 +15,8 @@ through the tour in order, from the Sun out to Neptune.
 Sizes and distances are not to scale; the style comes first. The fact cards do
 use real data.
 
-**Language:** this documentation is in US English. All text inside the game,
+**Language:** the brief introduction above is in Colombian Spanish;
+the full documentation below is in US English. All text inside the game,
 including the interface, labels, and fact cards, is in Colombian Spanish
 (es_CO), in both the web build and the desktop executable.
 
